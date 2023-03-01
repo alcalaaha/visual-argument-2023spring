@@ -7,3 +7,7 @@ Kingsthings Foundation font from [Font Squirrel](https://www.fontsquirrel.com/fo
 Photo of houses by Tom Parkes on [Unsplash](https://unsplash.com/photos/xuPiZa2TvuQ)
 
 Photo of castle by Leonhard Niederwimmer on [Unsplash](https://unsplash.com/photos/9UeHd6kH9hk)
+
+Corner flourishes from [Free SVG](https://freesvg.org/corner-decoration-4-1576595660)
+
+Ankh-Morpork and its map derived from Terry Pratchett's *Discworld*
